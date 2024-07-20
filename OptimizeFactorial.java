@@ -1,3 +1,8 @@
+/* 
+This is the program I use to find factorials of giant numbers like 2 million.
+Did you know 2 million factorial has 11,733,475 digits? Out of which 499,999 are trailing zeroes!
+*/
+
 package CoolCodeGit;
 import java.io.File;
 import java.io.FileWriter;
