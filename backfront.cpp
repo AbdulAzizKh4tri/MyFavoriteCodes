@@ -4,7 +4,8 @@ www.codechef.com/problems/BACKFRONT
 My solution for this problem statement. I sadly couldn't solve it in the contest itself, but I felt like the solution was
 withing my reach and I just had to put in some time, and sure enough, time did the trick. 
 
-I started off using vectors to store the indices to determine the order, but I realised I could just reverse the loop and keep track of things that way. Overall, took longer than it should have (hindsight privilege), but it was fun and I'm still proud for having solved it.
+I started off using vectors to store the indices to determine the order, but I realised I could just reverse the loop and keep track of things that way. 
+Overall, took longer than it should have (hindsight privilege), but it was fun and I'm still proud for having solved it.
 
 */
 
